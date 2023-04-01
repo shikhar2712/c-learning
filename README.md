@@ -1,7 +1,7 @@
 # learning c journy
 
 this is my journy of learning c programming language
-Link of online C compiler: https://www.programiz.com/c-programming/online-compiler/
+Link of online C compiler:https://www.programiz.com/c-programming/online-compiler/
 
 > resources to learn c which i followed in this journy("https://www.youtube.com/watch?v=KJgsSFOSQv0")
 
